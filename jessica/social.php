@@ -1,6 +1,6 @@
 <div class="social">
  <a href="http://twitter.com/#!/JessicaRogers76" target="_blank">
-   <img src="<?php bloginfo('template_directory'); ?>/images/twitter.gif" width="32" height="32" alt="twitter" />
+   <img src="<?php bloginfo('template_directory'); ?>/images/twitter-2.png" width="32" height="32" alt="twitter" />
  </a>
   <a href="http://www.linkedin.com/in/jessicarogerslifecoach" target="_blank">
     <img src="<?php bloginfo('template_directory'); ?>/images/linkedin.png" width="32" height="32" alt="linkedin" />
