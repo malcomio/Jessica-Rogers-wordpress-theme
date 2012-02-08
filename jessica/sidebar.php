@@ -2,5 +2,6 @@
 
 dynamic_sidebar (1);
 
-?>
 
+
+?>

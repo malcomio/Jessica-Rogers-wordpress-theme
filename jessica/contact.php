@@ -69,9 +69,7 @@ get_header();
           </p>
         </div>
         </div>
-         <div class="twitter">
- <a href="http://twitter.com/#!/JessicaRogers76" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/images/twitter.gif" width="32" height="32" alt="twitter" /> <span>Follow me on Twitter</span></a>
-</div>
+         <?php include 'social.php'; ?>
         </div>
     </div>
 
